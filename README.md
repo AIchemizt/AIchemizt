@@ -36,7 +36,7 @@
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhichandel0965@gmail.com)  
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Virtualfield4x)  
+[![(Twitter)](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Virtualfield4x)   
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/imabhishekchandel)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhishek-chandel-0b0a63127)  
 
