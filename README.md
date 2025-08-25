@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Abhishek Chandel (AIchemizt)
+# 👋 Hi, I'm Abhishek Chandel
 
-🔬 Exploring AI, Machine Learning, and Data Science | 🧩 Turning problems into models & insights  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+Researcher;ML+Engineer;Data+Scientist)](https://git.io/typing-svg)
 
 ---
 
@@ -50,6 +50,5 @@
 
 ⭐️ *If you find my projects interesting, consider giving them a star!*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+Researcher;ML+Engineer;Data+Scientist)](https://git.io/typing-svg)
 ![Visitor Count](https://komarev.com/ghpvc/?username=AIchemizt&color=blue)
 
