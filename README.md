@@ -19,24 +19,9 @@
 - **Deployment**: Flask, Streamlit, Android Studio (Kotlin)  
 - **Other Skills**: Feature Engineering, Data Visualization, Kaggle Competitions  
 
----
 
-## 📂 Featured Projects
-
-### 🩺 [MammoPath – Breast Cancer Segmentation](https://github.com/AIchemizt/mammopath)  
-- Training **U-Net and DSU-Net architectures** on **CBIS-DDSM dataset**  
-- Implemented patient-wise leak-proof dataset splits & custom loss functions  
-
-
-### 💳 [Credit Card Behavior Score Prediction](https://github.com/AIchemizt/credit-card-score)  
-- Classification project predicting **next-month default risk**  
-- Includes **EDA, financial feature engineering, and risk-based modeling**  
-
----
-
-## 🏆 Competitions & Research
+## 🏆 Competitions
 - 📌 Active on **Kaggle** with projects in **bioinformatics, NLP, and finance**
-- 📖 Exploring **diffusion models, CNNs, U-Nets, and risk-based ML techniques**
 
 ---
 
